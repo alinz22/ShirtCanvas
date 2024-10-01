@@ -2,7 +2,7 @@ import Link from "next/link";
 import MaxWidthWrapper from "./MaxWidthWrapper";
 import { ArrowRight } from "lucide-react";
 import { buttonVariants } from "@/components/ui/button";
-import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
+// import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
 
 export default function Navbar() {
   const user = undefined;
